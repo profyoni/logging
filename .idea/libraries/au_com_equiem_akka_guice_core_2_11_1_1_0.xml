@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="au.com.equiem:akka-guice-core_2.11:1.1.0" type="repository">
+    <properties maven-id="au.com.equiem:akka-guice-core_2.11:1.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/au/com/equiem/akka-guice-core_2.11/1.1.0/akka-guice-core_2.11-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/codingwell/scala-guice_2.11/4.1.0/scala-guice_2.11-4.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/inject/extensions/guice-multibindings/4.1.0/guice-multibindings-4.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.4.16/akka-actor_2.11-2.4.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.3.0/config-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-java8-compat_2.11/0.7.0/scala-java8-compat_2.11-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

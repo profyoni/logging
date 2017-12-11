@@ -1,3 +1,5 @@
+import com.google.inject.Guice;
+import com.google.inject.Injector;
 import org.apache.log4j.Logger;
 
 public class Main {
