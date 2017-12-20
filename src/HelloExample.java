@@ -7,7 +7,7 @@ public class HelloExample{
     public static void bar(String[] args) {
 
         HelloExample obj = new HelloExample();
-        obj.runMe("mco 152");
+        obj.runMe("mco 152 " + args[0]);
 
     }
 
